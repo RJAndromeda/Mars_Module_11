@@ -1,6 +1,6 @@
 # Mars_Module_11
 
-This Repo consists of 2 notebooks ( parts 1 & 2), in which the codes for data scraping can be found. It also consists of a .csv file of the dataframe in response to question 6..
+This Repo consists of 2 notebooks ( parts 1 & 2), in which the codes for data scraping can be found. It also consists of a .csv file of the dataframe in response to question 6. (as well as a readme file and .gitignore)
 
 ## Analysis
 
